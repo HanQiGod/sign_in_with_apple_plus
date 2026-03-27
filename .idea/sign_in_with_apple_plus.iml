@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus_web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sign_in_with_apple_plus_web/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

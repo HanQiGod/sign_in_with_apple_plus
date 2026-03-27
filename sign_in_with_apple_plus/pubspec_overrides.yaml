@@ -1,0 +1,5 @@
+dependency_overrides:
+  sign_in_with_apple_plus_platform_interface:
+    path: ../sign_in_with_apple_plus_platform_interface
+  sign_in_with_apple_plus_web:
+    path: ../sign_in_with_apple_plus_web
