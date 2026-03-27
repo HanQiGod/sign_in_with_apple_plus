@@ -1,5 +1,7 @@
 # sign_in_with_apple_plus_platform_interface
 
+# 技术支持邮箱(1539841933@qq.com)。
+
 A common platform interface for the [`sign_in_with_apple_plus`][1] plugin.
 
 This interface allows platform-specific implementations of the `sign_in_with_apple_plus`

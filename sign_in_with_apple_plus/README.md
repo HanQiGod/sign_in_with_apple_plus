@@ -1,5 +1,7 @@
 # sign_in_with_apple_plus
 
+# 技术支持邮箱(1539841933@qq.com)。
+
 Flutter bridge to Sign in with Apple.
 
 Supports login via an Apple ID, as well as retrieving credentials saved in the user's keychain.
