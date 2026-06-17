@@ -150,7 +150,7 @@ packages:
       path: "../sign_in_with_apple_plus_platform_interface"
       relative: true
     source: path
-    version: "2.0.0"
+    version: "3.0.0"
   sign_in_with_apple_plus_web:
     dependency: "direct main"
     description:
